@@ -1,3 +1,2 @@
 # dataIncubatorProject
-predict crime
-note: plots are located in the notebook
+predict crime. note: plots are located in the notebook
